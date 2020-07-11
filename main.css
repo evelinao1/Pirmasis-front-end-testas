@@ -1,11 +1,13 @@
 .box {
     display: inline-block;
-    width: 500px;
-    margin: 100px calc(50% - 250px);
+    width: 400px;
+    height: 400px;
+    margin: 100px calc(50% - 200px);
     background-color: red;
 }
 .title {
     text-align: center;
+    margin-top: 150px;
 }
 .text {
     text-align: center;
